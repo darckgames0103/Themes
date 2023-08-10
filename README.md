@@ -142,15 +142,15 @@
       "description": "A coffee shop at late night",
       "status": "Dark",
       "opacity": 0.55,
-      "imageURL": "https://cdn.discordapp.com/attachments/1041803590563545199/1041868324130271263/7ae61a7caceb11a7674efb66930fc0d8.jpg"
+      "imageURL": "https://preview.redd.it/8vz2k55k8mg81.jpg?auto=webp&s=7d047e67bb4f791810072e1e2547312f8eccf2aa"
     },
     {
-      "title": "Weird Cat",
+      "title": " Cat",
       "id": 19,
-      "description": "This cat isnt amused!",
-      "status": "Meme",
+      "description": "Just a cat!",
+      "status": "Cat",
       "opacity": 0.2,
-      "imageURL": "https://cdn.discordapp.com/attachments/1041803590563545199/1043316332130738288/tmg-facebook_social.jpg"
+      "imageURL": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_grumpy.jpg?quality=70&strip=info&w=960"
     },
     {
       "title": "One Piece",
@@ -214,7 +214,7 @@
       "description": "A Pink & Purple Demon Slayer Theme",
       "status": "Mixed",
       "opacity": 0.7,
-      "imageURL": "https://media.discordapp.net/attachments/1041803590563545199/1059418977991929886/1154476.png?width=1193&height=671"
+      "imageURL": "https://img2.wallspic.com/previews/4/7/7/4/6/164774/164774-tanjiro_kamado-demon_slayer_kimetsu_no_yaiba-anime-purple-art-x750.jpg"
     },
    {
       "title": "One piece",
